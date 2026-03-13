@@ -1,0 +1,11 @@
+enabled: true
+log_file: "backend/blocked.log"
+warning_page: "backend/warning_page.html"
+blocked_sites:
+  - exampleadultsite.com
+  - explicitdomain.net
+blocked_keywords:
+  - porn
+  - xxx
+  - sexvideo
+  - adult
